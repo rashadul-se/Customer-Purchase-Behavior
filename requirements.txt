@@ -43,3 +43,4 @@ mlxtend==0.23.0
 # Optional: For deployment
 # gunicorn==21.2.0  # For production deployment
 # watchdog==3.0.0   # For auto-reloading in development
+setuptools
